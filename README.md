@@ -10,7 +10,7 @@ The project focuses on writing clean HTML structure and modern CSS styling witho
 
 ---
 
-## ✨ Features
+## Features
 
 - Responsive Layout
 - Sticky Navigation Bar
@@ -33,14 +33,14 @@ The project focuses on writing clean HTML structure and modern CSS styling witho
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 ```
 Portfolio/
 │
+├── README.md
 ├── index.html
-├── styles.css
-└── README.md
+└── styles.css
 ```
 
 ---
